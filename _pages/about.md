@@ -12,4 +12,4 @@ I am a second year undergraduate student from [Weiyang College](https://www.wyc.
 
 I am very fortunate to be advised by [Prof. Gao Huang](http://www.gaohuang.net/) from  [Department of Automation](https://www.au.tsinghua.edu.cn/), Tsinghua University.
 
-[Email](yingjx23@mails.tsinghua.edu.cn) / [Github](https://github.com/Hpesojyjx)
+[Email](mailto:yingjx23@mails.tsinghua.edu.cn) / [Github](https://github.com/Hpesojyjx)
