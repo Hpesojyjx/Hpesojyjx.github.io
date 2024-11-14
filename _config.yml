@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "JiXuan Ying / Personal Homepage"
+title                    : "JiXuan Ying/Personal Homepage"
 title_separator          : "-"
 name                     : &name "JiXuan Ying"
 description              : &description "a second year undergraduate student from Tsinghua University"
