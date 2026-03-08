@@ -3,11 +3,12 @@ title: "InterSketch: Interleaved Visual–Textual Chain-of-Thought with Tool-Gen
 collection: publications
 permalink: /publication/intersketch
 date: 2026-01-01
-venue: "International Conference on Machine Learning (ICML)"
+venue: "International Conference on Machine Learning (ICML), under review"
 paperurl: ""
 citation: 'Z. Ning, W. Tong, X. Kong, S. Ma, Z. Shang, J. Ni, T. Hu, Y. X. Chng, Jixuan Ying, Z. Wu, J. Yang, W. Liu, H. Deng, L. Lu. "InterSketch: Interleaved Visual–Textual Chain-of-Thought with Tool-Generated Sketches and Reinforcement Learning." ICML 2026, under review.'
 excerpt: "An interleaved multimodal reasoning framework that leverages tool-generated sketches to support long-horizon visual-text Chain-of-Thought reasoning."
 ---
+
 
 This work studies long-horizon interleaved visual-text reasoning by introducing **InterSketch**, an agentic vision-language framework that uses tool-generated intermediate sketches to support multi-step reasoning.
 
