@@ -4,7 +4,8 @@ collection: publications
 permalink: /publication/intersketch
 date: 2025-12-31
 venue: "International Conference on Machine Learning (ICML)"
-status: "under review"category: conferences
+status: "under review"
+category: conferences
 citation: 'Z. Ning, W. Tong, X. Kong, S. Ma, Z. Shang, J. Ni, T. Hu, Y. X. Chng, <b><u>Jixuan Ying</u></b>, Z. Wu, J. Yang, W. Liu, H. Deng, L. Lu. "InterSketch: Interleaved Visual–Textual Chain-of-Thought with Tool-Generated Sketches and Reinforcement Learning." ICML 2026, under review.'
 excerpt: "An interleaved multimodal reasoning framework that leverages tool-generated sketches to support long-horizon visual-text Chain-of-Thought reasoning."
 ---
