@@ -4,8 +4,8 @@ collection: publications
 permalink: /publication/linear-differential-vit
 date: 2025-12-30
 venue: "Neural Information Processing Systems (NeurIPS)"
+status: "accepted"
 category: conferences
-paperurl: ""
 citation: 'Y. Pu*, Jixuan Ying*, T. Ye, D. Han, Z. Wang, Q. Li, X. Shao, X. Wang, G. Huang, X. Li. "Linear Differential Vision Transformer: Learning Visual Contrasts via Pairwise Differentials." NeurIPS 2025.'
 excerpt: "A linear-complexity vision transformer based on visual contrast attention, designed to improve local difference perception with minimal overhead."
 ---
